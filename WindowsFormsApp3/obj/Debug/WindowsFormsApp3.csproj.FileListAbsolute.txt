@@ -7,3 +7,12 @@ c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsForm
 c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
 c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 c:\users\p501\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Cavidan\Desktop\tictactoe\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
